@@ -1,0 +1,6 @@
+*.slxc
+/slprj
+*.slx.autosave
+*.xlsx
+/OLD
+*.asv
