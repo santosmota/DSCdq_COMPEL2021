@@ -16,8 +16,6 @@ All Simulink models use blocks from the library "DSCdq_Library.slx" of this repo
 The figures were made in Python. The code for the figures is not present in this repository.
 
 ### Figures Short Pulse and FFT of DSC and Notch
-Did not make the digest.
-
 ShortPulse_Script.m, ShortPulse.slx, ShortPulse_Raw.txt
 
 The FFT figure was calculated with Python from the data in \*_Raw.txt. The Python code is not present in this repository.
